@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Chris's GitHub 
 
 You can use the [editor on GitHub](https://github.com/ChrisHarper23/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
