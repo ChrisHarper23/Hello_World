@@ -1,4 +1,5 @@
-## Welcome to Chris's GitHub 
+# Welcome to Chris's "Hello World" repository. 
+### I am using GitHub as place to store all my learning resources.
 
 You can use the [editor on GitHub](https://github.com/ChrisHarper23/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
