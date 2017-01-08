@@ -9,11 +9,12 @@
 - [W3 Schools/html](http://www.w3schools.com/html/default.asp)
 
 ###List of CSS Resouces
-- [W3 Schools/CSS](http://www.w3schools.com/html/default.asp)
+- [W3 Schools/CSS](http://www.w3schools.com/css/default.asp)
 
+###Online Schools
+-[FreeCodeCamp.org](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works)
 
 ### Support or Contact
 
  [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
  
-  [click here to edit](https://github.com/ChrisHarper23/hello-world/edit/master/README.md) 
