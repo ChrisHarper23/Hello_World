@@ -12,7 +12,7 @@
 - [W3 Schools/CSS](http://www.w3schools.com/css/default.asp)
 
 ###Online Schools
--[FreeCodeCamp.org](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works)
+- [FreeCodeCamp.org](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works)
 
 ### Support or Contact
 
