@@ -1,5 +1,5 @@
 # Welcome to Chris's "Hello World" repository. 
-### I am using GitHub as repository for all my programming/webdesign learning resources.
+I am using GitHub as repository for all my programming/webdesign learning resources.
 
 
 # List of Python Resouces
@@ -21,7 +21,3 @@
 - [W3.CSS](http://www.w3schools.com/w3css/default.asp)
 
  
-```python
-s = "Python syntax highlighting"
-print s
-```
